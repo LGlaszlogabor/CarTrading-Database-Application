@@ -1,0 +1,9 @@
+c:\users\_lg_\documents\visual studio 2013\Projects\Autokereskedes\Autokereskedes\bin\Debug\Autokereskedes.exe.config
+c:\users\_lg_\documents\visual studio 2013\Projects\Autokereskedes\Autokereskedes\bin\Debug\Autokereskedes.exe
+c:\users\_lg_\documents\visual studio 2013\Projects\Autokereskedes\Autokereskedes\bin\Debug\Autokereskedes.pdb
+c:\users\_lg_\documents\visual studio 2013\Projects\Autokereskedes\Autokereskedes\obj\Debug\Autokereskedes.csprojResolveAssemblyReference.cache
+c:\users\_lg_\documents\visual studio 2013\Projects\Autokereskedes\Autokereskedes\obj\Debug\Autokereskedes.Form1.resources
+c:\users\_lg_\documents\visual studio 2013\Projects\Autokereskedes\Autokereskedes\obj\Debug\Autokereskedes.Properties.Resources.resources
+c:\users\_lg_\documents\visual studio 2013\Projects\Autokereskedes\Autokereskedes\obj\Debug\Autokereskedes.csproj.GenerateResource.Cache
+c:\users\_lg_\documents\visual studio 2013\Projects\Autokereskedes\Autokereskedes\obj\Debug\Autokereskedes.exe
+c:\users\_lg_\documents\visual studio 2013\Projects\Autokereskedes\Autokereskedes\obj\Debug\Autokereskedes.pdb
